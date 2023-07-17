@@ -34,8 +34,6 @@ export default function PokemonCard() {
   //   return pokemons.data.types[0].type.name
   // }
 
-
-
   return (
 
     <div className='flex flex-wrap justify-center  mt-16 mb-16'>
